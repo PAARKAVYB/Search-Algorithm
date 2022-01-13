@@ -103,8 +103,6 @@ if result>=0:
 else:
     print("Element not found")
 ```
-
-
 ## Output:
 ![output](ls1.png)
 ![output](bs1.png)
